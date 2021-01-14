@@ -1,0 +1,9 @@
+To perform a git merge
+On the master repository, click Pull Request
+- Give your merge a name and desciption if necessary
+- Create Pull Request
+- Click review session and review with a comment if necessary
+- Confirm Merge
+- Confirm
+- Delete other branches if necessary
+
